@@ -30,6 +30,7 @@
         android:layout_marginEnd="@dimen/fab_margin"
         android:layout_marginBottom="16dp"
         app:srcCompat="@drawable/ic_shopping_cart"
-        android:backgroundTint="#E97D1EE9"/>
+        android:backgroundTint="#E97D1EE9"
+        android:contentDescription="@string/todo" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
